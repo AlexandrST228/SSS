@@ -1,0 +1,247 @@
+@import url("./ObnulenieCSS.css");
+@import url(https://fonts.googleapis.com/css?family=Tillana:regular,500,600,700,800);
+header {
+    font-family: Arial, Helvetica, sans-serif, serif;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif, serif;
+}
+
+header{
+display: flex;
+max-width: 1600px;
+    
+}
+.header{
+    margin: 0 auto;
+    align-items: center;
+}
+header p{
+    width: 535px;
+    height: 75px;
+    background-color: #E5E5E1;
+    border: 3px solid black;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding: 23px 0 0 0;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.body__container{
+max-width: 1600px;
+margin: 0px auto;
+display: flex;
+
+}
+.sale{
+    width: 280px;
+height: 95px;
+background-color: #E5E5E1;
+border: 2px solid black;
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+align-items: center;
+margin: 2px 0 0 0;
+}
+.btn_1 p{
+    border-right: none;
+}
+
+.btn_2 p{
+    border-left: none;
+}
+
+
+.sale p{
+    margin: 33px auto;
+    font-weight: bold;
+    font-family: Tillana;
+}.logo{
+    margin: 0 auto;
+    align-items: center;
+}
+.quesn_number{
+    
+}
+
+.number{
+    display: flex;
+    text-align: center;
+    font-family: Tillana;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px 0 0 0px;
+
+}
+
+
+.number p{
+    padding: 0px 0px 0 60px;
+}
+
+.line_qu_num{
+    width: 530px;
+    height: 2px;
+    background-color: black;
+    margin: 30px 0 0 0;
+}
+
+.quesn{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0 0 0;
+}
+
+.what_tele{
+    display: flex;
+    margin: 0 0 0 80px;
+}
+.whatsapp{
+display: flex;
+text-align: center;
+align-items: center;
+margin: 10px 0 0 0;
+}
+.whatsapp p {
+    padding: 0px 0 0 10px;
+}
+
+
+.telegramm{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 10px 0 0 50px;
+    }
+.telegramm p {
+        padding: 0px 0 0 10px;
+    }
+.zagolovki{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.Zagolovok{
+    margin: 20px auto;
+}    
+.zagolovki h1{
+    font-size: 28px;
+    font-weight: 520;
+    font-family: Tillana;
+    text-align: center;
+    padding: 25px 0 0 0;
+}
+
+.zagolovki h2{
+    font-size: 40px;
+    font-weight: 400;
+    color: #FF3205;
+    text-align: center;
+    padding: 25px 0 0 0;
+}
+
+.proizvod{
+    margin: 0 auto;
+
+}
+
+.proizv_1{
+    display: flex;
+    margin: 30px 0 0 10px;
+    
+}
+
+.proizv_1 img{
+    display: flex;
+    margin: 0 0 0 40px;
+    border: 2px solid black;
+}
+
+.proizv_2{
+    margin: 30px 0 0 -5px;
+    justify-content: center;
+}
+footer{
+    margin: 30px auto;
+    background-color: black;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
+
+.quesn_number_foot p{
+    color: #FFD700;
+    display: flex;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+margin: 20px auto;
+justify-content: center;
+align-items: center;
+}
+.foot_txt{
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+}
+.foot_l{
+    background-color: #FFD700;
+    text-align: center;
+margin: 20px auto;
+justify-content: center;
+align-items: center;
+}
+.number_foot{
+text-align: center;
+margin: 20px auto;
+justify-content: center;
+align-items: center;
+
+}
+.number_foot p:first-child{
+    padding: 0 50px 0 0;
+}
+.quesn_foot{
+text-align: center;
+justify-content: center;
+align-items: center;
+margin: 0 auto;
+}
+@media (max-width: 1600px)
+{
+
+}
+
+@media (max-width: 1440px)
+{
+
+}
+
+@media (max-width: 1024px)
+{
+
+}
+
+@media (max-width: 768px)
+{
+
+}
+
+@media (max-width: 435px)
+{
+
+}
+
+@media (max-width: 375px)
+{
+
+}
+
+@media (max-width: 320px)
+{
+
+}
